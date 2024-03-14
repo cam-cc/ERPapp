@@ -11,8 +11,8 @@ This project is a simplified interface for an ERP (Enterprise Resource Planning)
 
 ## Running the Application
 
-    1. Clone this repository: `git clone https://github.com/rajsingh5234/ERP.git`
-    2. Navigate to the project directory: `cd ERP`
+    1. Clone this repository: `git clone https://github.com/cam-cc/ERPapp.git`
+    2. Navigate to the project directory: `cd ERPapp`
     3. Install dependencies: `npm install`
     4. Run the development server: `npm run dev`
     5. Access the application in your browser at `http://localhost:5173`
