@@ -56,6 +56,6 @@ This project is a simplified interface for an ERP (Enterprise Resource Planning)
 - Provide the ability to view orders due for delivery on a specific day.
   ![Calendar](/public/calendar.png)
 
-## Submission
+## Demo
 
-The project is hosted on Netlify at: [Link](https://erp-sys.netlify.app/)
+The project is hosted on Vercel at: [Link](https://er-papp-topaz.vercel.app/login)
